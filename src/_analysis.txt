@@ -1,0 +1,8 @@
+﻿Non-payment low reviews: 1385
+cokme_hata 199
+oyun_sikici 133
+ui 21
+zorluk 32
+veri_kaybi 148
+1 star blocks: 0 2 star: 0
+Very short (<=3 words): 281 of 2463
